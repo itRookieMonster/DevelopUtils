@@ -1,4 +1,4 @@
-package com.bland.developutils.utils;
+package com.bland.utils;
 
 public class StringUtils {
 

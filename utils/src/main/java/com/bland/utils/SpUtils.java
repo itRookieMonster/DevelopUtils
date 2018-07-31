@@ -1,4 +1,4 @@
-package com.bland.developutils.utils;
+package com.bland.utils;
 
 import android.content.Context;
 import android.content.SharedPreferences;
